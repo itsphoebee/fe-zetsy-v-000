@@ -35,7 +35,9 @@ h1 {
 	font-size: 5em;
 	font-weight: bold;
 	padding-bottom: 6px;
-	border-bottom: 1px, solid, #ccc;
+	border-bottom: solid;
+	border-width: thin;
+	border-color: rgb(204,204,204);
 }
 
 /* Style the featured section*/
@@ -43,6 +45,7 @@ h1 {
 	max-width: 100%;
 	border: 5px solid;
 	color: rgb(150,173,166);
+	margin-top: -48px;
 }
 
 #featured a:link, #featured a:visited{
