@@ -39,7 +39,7 @@ p {
 }
 
 img {
-	border: 10px solid transparent;
+	border: 10px solid;
 	padding: 2%;
 	color: rgb(150,173,166);
 }
