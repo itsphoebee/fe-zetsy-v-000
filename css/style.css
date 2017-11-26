@@ -19,16 +19,18 @@ body {
 
 /* Write all remaining styles here */
 
-#logo a:link{
+#logo a:link, #logo a:visited{
 	color: rgb(150,173,166);
 	text-decoration: none;
 }
 
-
+#logo a:hover{
+	color: rgb(110, 127, 122);
+}
 #logo {
 
   font: 'Libre Baskerville', serif;
-
+	color: rgb(150,173,166);
 
 	}
 }
