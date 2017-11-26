@@ -31,7 +31,7 @@ img {
 	color: rgb(150,173,166);
 }
 
-a:link {
+a:link, a:visited {
 	color: rgb(0,132,183);
 	text-decoration: none;
 }
