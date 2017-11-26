@@ -24,7 +24,7 @@ header a:link, #logo a:visited{
 	text-decoration: none;
 }
 
-#logo a:hover{
+header a:hover{
 	color: rgb(110, 127, 122);
 }
 #logo {
