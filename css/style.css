@@ -39,6 +39,11 @@ h1 {
 	border-color: rgb(204,204,204);
 }
 
+img {
+	border: 5px solid;
+	color: rgb(150,173,166);
+}
+
 h2 {
 	color: rgb(110,127,122);
 	font-family: 'Times New Roman', serif;
