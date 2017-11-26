@@ -28,11 +28,11 @@ body {
 	color: rgb(110, 127, 122);
 }
 #logo {
-
   font: 'Libre Baskerville', serif;
 	color: rgb(150,173,166);
-
-	}
+	border-bottom: solid;
+	border-width: thin;
+	border-color: rgb(204,204,204);
 }
 
 h2 {
