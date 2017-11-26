@@ -19,10 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-header a:link, #logo a:visited{
-	color: rgb(150,173,166);
-	text-decoration: none;
-}
+
 
 header a:hover{
 	color: rgb(110, 127, 122);
