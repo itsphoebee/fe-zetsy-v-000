@@ -49,7 +49,7 @@ h1 {
 }
 
 #featured img {
-	margin-top: .02px;
+	margin-top: .00001px;
 	max-width: 100%;
 	border: 5px solid;
 	color: rgb(150,173,166);
