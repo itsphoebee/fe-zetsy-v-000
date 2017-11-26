@@ -18,6 +18,10 @@ body {
 }
 
 /* Write all remaining styles here */
+a:link{
+	text-decoration: none;
+}
+
 h1 {
 	font-size: 5em;
   font-weight: normal;
