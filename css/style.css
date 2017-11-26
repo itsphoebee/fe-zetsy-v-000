@@ -6,12 +6,10 @@
 
 body {
 	background: #F3EBE9;
+	background-size: cover;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+
 }
 
 .wrapper {
