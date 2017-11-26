@@ -40,6 +40,7 @@ h1 {
 	color: rgb(150,173,166);
 	font-size: 5em;
 	font-weight: bold;
+	padding-bottom: 10px;
 	border-bottom: solid;
 	border-width: thin;
 	border-color: rgb(204,204,204);
