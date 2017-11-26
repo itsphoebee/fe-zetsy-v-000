@@ -35,9 +35,8 @@ h1 {
 	font-size: 5em;
 	font-weight: bold;
 	padding-bottom: 6px;
-	border-bottom: solid;
+	border-bottom: solid, #ccc;
 	border-width: thin;
-	border-color: rgb(204,204,204);
 }
 
 /* Style the featured section*/
