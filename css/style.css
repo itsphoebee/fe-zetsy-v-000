@@ -24,6 +24,7 @@ h1 {
   font-family: 'Libre Baskerville', serif;
 	color: rgb(150,173,166);
 	border-bottom: solid;
+	border-width: thin;
 	border-color: rgb(204,204,204);
 }
 
