@@ -18,7 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
-a:link{
+
+#logo a:link{
 	text-decoration: none;
 }
 
