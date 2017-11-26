@@ -44,7 +44,7 @@ h1 {
 	max-width: 100%;
 	border: 5px solid;
 	color: rgb(150,173,166);
-	margin-top: 10px;
+	margin-top: -10px;
 }
 
 /* Style the featured section*/
