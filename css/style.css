@@ -57,6 +57,7 @@ p {
 #News img {
 	border: 5px solid;
 	color: #ccc;
+	padding: 1px;
 }
 
 #News a:hover {
