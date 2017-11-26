@@ -40,6 +40,7 @@ p {
 
 img {
 	border: 10px solid transparent;
+	padding: 15px;
 	color: rgb(150,173,166);
 }
 
