@@ -1,5 +1,5 @@
 /*////////////// Fonts //////////////*/
-
+@@import "css/style.css"
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 h1, h2 {
-	
+	font-weight: bold;
 	color: rgb(150,173,166);
 }
 
