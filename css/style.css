@@ -19,6 +19,7 @@ body {
 
 /* Write all remaining styles here */
 h1, h2 {
+	font-weight: bold;
 	color: rgb(150,173,166);
 }
 
