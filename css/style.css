@@ -32,6 +32,8 @@ body {
 	color: rgb(150,173,166);
 }
 h1 {
+	font-size: 5em;
+	font-weight: normal;
 	border-bottom: solid;
 	border-width: thin;
 	border-color: rgb(204,204,204);
