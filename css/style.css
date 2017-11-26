@@ -27,7 +27,7 @@ header a:link, #logo a:visited{
 header a:hover{
 	color: rgb(110, 127, 122);
 }
-#logo {
+header {
   font: 'Libre Baskerville', serif;
 	color: rgb(150,173,166);
 }
