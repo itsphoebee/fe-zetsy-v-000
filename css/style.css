@@ -23,6 +23,7 @@ h1 {
   font-weight: normal;
   font-family: 'Libre Baskerville', serif;
 	color: rgb(150,173,166);
+	border-bottom: solid;
 }
 
 h2 {
