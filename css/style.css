@@ -21,3 +21,8 @@ body {
 h1 {
 	color: rgb(150,173,166);
 }
+
+img {
+	border: 10px;
+	color: rgb(150,173,166);
+}
