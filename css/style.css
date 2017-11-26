@@ -71,7 +71,14 @@ p {
 	color: rgb(110, 127, 122);
 }
 
+#News a:link, a:visited {
+	color: rgb(0,132,183);
+	text-decoration: none;
+}
 
+#News a:hover {
+	text-decoration: underline;
+}
 
 /*Style the footer*/
 
