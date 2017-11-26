@@ -27,7 +27,11 @@ body {
 #logo a:hover{
 	color: rgb(110, 127, 122);
 }
+#logo {
 
+  font: 'Libre Baskerville', serif;
+
+}
 
 h2 {
 	color: rgb(110,127,122);
