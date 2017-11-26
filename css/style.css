@@ -31,6 +31,7 @@ body {
   font: 'Libre Baskerville', serif;
 	color: rgb(150,173,166);
 }
+
 h1 {
 	font-size: 5em;
 	font-weight: bold;
@@ -75,5 +76,5 @@ p {
 
 footer {
 	float:right;
-	padding-right: 100px;
+	
 }
