@@ -50,6 +50,7 @@ h1 {
 
 #featured a:link, #featured a:visited{
 color: rgb(0, 138, 202);
+text-decoration: none;
 }
 
 h2 {
