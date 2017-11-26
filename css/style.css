@@ -51,7 +51,7 @@ p {
 
 #News img {
 	border: 5px solid;
-	color: rgb(150,173,166);
+	color: #ccc;
 }
 
 .about a:link, a:visited {
