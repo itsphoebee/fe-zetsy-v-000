@@ -28,8 +28,9 @@ h1 a:hover{
 	color: rgb(110, 127, 122);
 }
 
-
 h1 {
+	font: 'Libre Baskerville', serif;
+	color: rgb(150,173,166);
 	font-size: 5em;
 	font-weight: bold;
 	border-bottom: solid;
