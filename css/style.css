@@ -20,6 +20,7 @@ body {
 /* Write all remaining styles here */
 
 #logo a:link{
+	color: rgb(150,173,166);
 	text-decoration: none;
 }
 
