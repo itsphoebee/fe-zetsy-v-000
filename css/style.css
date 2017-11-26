@@ -8,6 +8,10 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 .wrapper {
@@ -18,14 +22,6 @@ body {
 }
 
 /* Write all remaining styles here */
-
-div { 
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-    }
-
 
 /* Style the header*/
 h1 a:link, h1 a:visited{
