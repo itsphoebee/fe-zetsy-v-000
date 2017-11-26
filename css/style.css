@@ -18,15 +18,15 @@ body {
 }
 
 /* Write all remaining styles here */
-h1, h2 {
-	font-family: 'Baskerville';
-	font-weight: bold;
+h1 {
+	font-size: 5em;
+  font-weight: normal;
+  font-family: 'Baskerville', serif;
 	color: rgb(150,173,166);
 }
 
 h1 {
-    font-size: 2em;
-    margin: .67em 0;
+
 }
 
 p {
