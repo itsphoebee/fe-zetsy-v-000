@@ -18,7 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
+h1, h2 {
 	color: rgb(150,173,166);
 }
 
