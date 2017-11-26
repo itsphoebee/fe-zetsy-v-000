@@ -49,6 +49,7 @@ h1 {
 }
 
 #featured img {
+	float: inherit;
 	max-width: 100%;
 	border: 5px solid;
 	color: rgb(150,173,166);
