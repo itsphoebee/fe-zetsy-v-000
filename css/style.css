@@ -23,6 +23,6 @@ h1 {
 }
 
 img {
-	border: 10px;
+	border-image: : 10px;
 	color: rgb(150,173,166);
 }
