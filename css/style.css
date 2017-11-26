@@ -19,6 +19,14 @@ body {
 
 /* Write all remaining styles here */
 
+html { 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+
 /* Style the header*/
 h1 a:link, h1 a:visited{
 	color: rgb(150,173,166);
