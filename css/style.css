@@ -44,7 +44,7 @@ p {
 
 img {
 	border: 5px solid;
-	color: #ccc;
+	color: rgb(150,173,166);
 }
 
 .about a:link, a:visited {
