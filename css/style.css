@@ -25,6 +25,12 @@ body {
   box-sizing: border-box;
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    text-decoration: underline;
+}
+
 h1 a:link, h1 a:visited{
 	color: rgb(150,173,166);
 	text-decoration: none;
