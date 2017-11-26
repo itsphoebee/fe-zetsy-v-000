@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-a:link, a:visited{
+h1 a:link, h1 a:visited{
 	color: rgb(150,173,166);
 	text-decoration: none;
 }
